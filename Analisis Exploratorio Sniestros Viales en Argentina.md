@@ -1,7 +1,7 @@
 
 # Dashboard – Siniestros viales fatales en Argentina (2017–2023)
 
-Dashboard interactivo desarrollado en **Streamlit** como Proyecto Final de la materia **Minería de Datos** (Tecnicatura en Ciencia de Datos e IA).
+Dashboard interactivo desarrollado en **Streamlit** 
 ## Dashboard online
 Link: https://proyecto-mineria-app-3vp9gtvopaaecwapp9w8clb.streamlit.app/ 
 
